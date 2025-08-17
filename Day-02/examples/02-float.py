@@ -18,3 +18,10 @@ print("Division:", result4)
 # Rounding
 result5 = round(3.14159265359, 2)  # Rounds to 2 decimal places
 print("Rounded:", result5)
+
+
+# print("Addition:", num1 + num2,)
+# print ("Subtraction:", num1 - num2)
+# print ("Multiplication:", num1 * num2)
+# print ("Division:", num1 / num2)
+# print ("Rounded:", round(3.14159265359, 2,))
